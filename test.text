@@ -1,0 +1,12 @@
+  <img src="resources/20231226-185137.jpg" class="img-fluid" alt="...">//
+
+
+  .hero-image {
+  background-image: url("/w3images/photographer.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
